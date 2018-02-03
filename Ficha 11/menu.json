@@ -1,0 +1,59 @@
+[
+    {
+    "obs": "One dozen wings, come in hot or bbq flavour.",
+    "prato": "Chicken Wings",
+    "tipo": "appetizer",
+    "banner1": "banner4.jpeg",
+    "total": 7
+    },
+    {
+    "obs": "Delicious pan fried bread with olive oil.",
+    "prato": "Garlic Bread",
+    "tipo": "appetizer",
+    "banner1": "banner2.jpg",
+    "total": 3
+    },
+    {
+    "obs": "Great for sharing with friends. Tons of cheese and all the toppings.",
+    "prato": "Nachos",
+    "tipo": "appetizer",
+    "banner1": "banner3.jpg",
+    "total": 14
+    },
+    {
+    "obs": "Crisp tortilla chips and dip.",
+    "prato": "Chips &amp; Salsa",
+    "tipo": "appetizer",
+    "banner1": "banner1.jpeg",
+    "total": 6
+    },
+    {
+    "obs": "One of the best hot dog in the town",
+    "prato": "Hot Dog",
+    "tipo": "appetizer",
+    "banner1": "banner10.jpg",
+    "total": 2.50
+    },
+    {
+    "obs": "One of the best Prego's in the town",
+    "prato": "Prego",
+    "tipo": "appetizer",
+    "banner1": "banner6.jpg",
+    "total": 2.50
+    },
+    {
+    "obs": "Cry for more!!!",
+    "prato": "Hamburger",
+    "tipo": "appetizer",
+    "banner1": "banner7.jpg",
+    "total": 5.50
+    },
+    {
+    "obs": "Love it!!!",
+    "prato": "Wrap",
+    "tipo": "appetizer",
+    "banner1": "banner8.jpg",
+    "total": 4.50
+    }
+          
+   ]

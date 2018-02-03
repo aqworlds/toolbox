@@ -1,0 +1,12 @@
+body {
+    background-color: #ffd54f;
+}
+
+.cxa{
+    background-color: white;
+    border: solid 1px;
+    padding: 5px;
+    margin: 5px;
+    height: 200px;
+    width: 250px;
+}

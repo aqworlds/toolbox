@@ -1,0 +1,36 @@
+.container{
+    position:relative;
+    border:solid green;
+}
+nav{
+    position: absolute;
+    left: 0px;
+    width: 196px;
+    border: solid rgb(234, 0, 113);
+    padding: 5px;
+}
+.colorgay{
+    color: pink;
+}
+.noger{
+    color:black;
+}
+section{
+    margin-left: 210px;
+    border:solid rgb(255, 187, 0);
+    padding: 10px;
+}
+footer{
+    position: fixed;
+    bottom: 0;
+    left:0;
+    height: 70px;
+    background-color: white;
+    width: 100%;
+    border: solid #82c928;
+    text-align: center;
+}
+
+body{
+    margin-bottom: 120px;
+}
